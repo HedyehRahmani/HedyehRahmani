@@ -13,9 +13,9 @@
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> 
   </a> 
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/tableau-full-logo" alt="Tableau" width="40" height="40"/> 
-  </a> 
+<a href="https://www.ibm.com/products/cognos-analytics" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/ibm_cognos/ibm_cognos-ar21.svg" alt="IBM Cognos" width="40" height="40"/> 
+</a>
   <a href="https://www.ibm.com/products/cognos-analytics" target="_blank" rel="noreferrer"> 
     <img src="https://newintelligence.ca/wp-content/uploads/2019/07/cognos-analytics-11-1-3.jpg" alt="IBM Cognos" width="40" height="40"/> 
   </a> 
