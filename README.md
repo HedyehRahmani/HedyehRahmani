@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Hedyeh</h1>
-<h3 align="left">A passionate individual in the field of Data</h3>
+<h3 align="left">Passionately learning and exploring the world of Data Science, data analytics, descriptive and predictive modelling, and Machine Learning with a background in Applied Mathematics and statistics.
+Known for my eagerness to learn, hard work, adaptability, and effective collaboration in a team</h3>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/hedyeh-rahmani-15a8972ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLR1GrpFKRD%2BiNjNwf6jM9w%3D%3D">
