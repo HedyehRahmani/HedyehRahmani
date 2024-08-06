@@ -2,8 +2,9 @@
 <h3 align="left">A passionate individual in the field of Data</h3>
 
 <h3 align="left">Connect with me:</h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hedyeh-rahmani-15a8972ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLR1GrpFKRD%2BiNjNwf6jM9w%3D%3D)
-<p align="left">
+<a href="https://www.linkedin.com/in/hedyeh-rahmani-15a8972ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLR1GrpFKRD%2BiNjNwf6jM9w%3D%3D">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Badge"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
