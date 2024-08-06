@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Hedyeh</h1>
-<h3 align="center">A passionate individual in the field of Data</h3>
+<h1 align="left">Hi 👋, I'm Hedyeh</h1>
+<h3 align="left">A passionate individual in the field of Data</h3>
 
 <h3 align="left">Connect with me:</h3>
+https://www.linkedin.com/in/hedyeh-rahmani-15a8972ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLR1GrpFKRD%2BiNjNwf6jM9w%3D%3D
 <p align="left">
 </p>
 
